@@ -4,3 +4,4 @@ console.log('B');
 console.log('F');
 console.log('C');
 console.log('D');
+console.log('featureB');
